@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRaft", "CRaft\CRaft.csproj", "{A301DA67-9199-467D-986D-A36F595EE2E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRaftClient", "CRaftClient\CRaftClient.csproj", "{5889CFB1-7CA7-46C7-9B57-62C3F8B7B705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRaft.Tests", "CRaft.Tests\CRaft.Tests.csproj", "{45BA46EF-7506-45E7-BEDE-C13DDB068604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A301DA67-9199-467D-986D-A36F595EE2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A301DA67-9199-467D-986D-A36F595EE2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A301DA67-9199-467D-986D-A36F595EE2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A301DA67-9199-467D-986D-A36F595EE2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5889CFB1-7CA7-46C7-9B57-62C3F8B7B705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5889CFB1-7CA7-46C7-9B57-62C3F8B7B705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5889CFB1-7CA7-46C7-9B57-62C3F8B7B705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5889CFB1-7CA7-46C7-9B57-62C3F8B7B705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BA46EF-7506-45E7-BEDE-C13DDB068604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BA46EF-7506-45E7-BEDE-C13DDB068604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BA46EF-7506-45E7-BEDE-C13DDB068604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BA46EF-7506-45E7-BEDE-C13DDB068604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24CF0295-288C-4181-9D43-9CD2437AD36A}
+	EndGlobalSection
+EndGlobal
